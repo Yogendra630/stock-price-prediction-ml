@@ -199,7 +199,7 @@ This model can be used later for:
 <h2>📈 Example Prediction Graph</h2>
 
 <p align="center">
-<img src="" width="600">
+<img src="stock.png" width="600">
 </p>
 
 <hr>
