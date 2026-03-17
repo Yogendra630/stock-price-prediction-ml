@@ -4,4 +4,4 @@ matplotlib
 scikit-learn
 yfinance
 streamlit
-tensorflow-cpu==2.13.1
+
