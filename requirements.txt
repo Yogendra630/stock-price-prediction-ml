@@ -3,5 +3,5 @@ pandas
 matplotlib
 scikit-learn
 yfinance
-streamlit==1.19.0
-altair==4.2.2
+streamlit
+altair==5.0.1
