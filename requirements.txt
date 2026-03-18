@@ -5,3 +5,5 @@ pandas
 matplotlib
 scikit-learn
 yfinance
+pillow==10.0.0
+matplotlib==3.10.8
